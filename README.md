@@ -1,2 +1,2 @@
 # exploring-workflows
-Learning GitHub Workflows
+A simple repository for storing family recipes
